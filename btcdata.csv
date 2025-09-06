@@ -1,0 +1,56 @@
+Student Name,Start_Date,Start_Day,Start_Time,End_time,Program,Parent_Fname,Parent_Lname,Fees(£)
+Claire Gute,02/09/2024,Monday,17:00:00,18:00:00,Grammar School Exam,Lena,Gute Huff,45
+Darrin Van Huff,03/09/2024,Tue,17:00:00,18:00:00,Grammar School Exam,Jonathan,Van,45
+Sean O'Donnell,04/09/2024,Wednesday,17:00:00,18:00:00,Grammar School Exam,Sally,O'Donnell,45
+Brosina Hoffman,05/09/2024,Thur,17:00:00,18:00:00,11 Plus,Sandra,Hoffman,45
+Andrew Allen,06/09/2024,Friday,17:00:00,18:00:00,11 Plus,Helen,Allen,45
+Irene Maddox,07/09/2024,Saturday,17:00:00,18:00:00,GCSE,Maureen,Maddox,65
+Harold Pawlan,07/09/2024,Sarurday,18:00:00,19:00:00,GCSE,Justin,Pawlan,65
+Irene Maddox,07/09/2024,Sunday,17:00:00,18:00:00,GCSE,Maureen,Maddox,65
+Harold Pawlan,02/09/2024,Monday,18:00:00,19:00:00,GCSE,Justin,Pawlan,65
+Pete Kriz,03/09/2024,Tuesday,18:00:00,19:00:00,GCSE,Tamara,Kriz,65
+Alejandro Grove,04/09/2024,Wednesday,18:00:00,19:00:00,GCSE,Stephanie,Grove,65
+Zuschuss Donatelli,05/09/2024,Thursday,18:00:00,19:00:00,GCSE,Neil,Donatelli,65
+Ken Black,06/09/2024,Friday,18:00:00,19:00:00,GCSE,Dave,Black,65
+Alejandro Grove,04/09/2024,Wednesday,18:00:00,19:00:00,GCSE,Stephanie,Grove,65
+Zuschuss Donatelli,05/09/2024,Thurs,18:00:00,19:00:00,GCSE,Neil,Donatelli,65
+Ken Black,06/09/2024,Friday,18:00:00,19:00:00,GCSE,Dave,Black,65
+Sandra Flanagan,07/09/2024,Saturday,18:00:00,19:00:00,Year 9,Nora,Flanagan,45
+Emily Burns,02/09/2024,Monday,19:00:00,20:00:00,Year 9,Ted,Burns,45
+Eric Hoffmann,03/09/2024,Tuesday,19:00:00,20:00:00,Year 9,Eric,Hoffmann,45
+Tracy Blumstein,04/09/2024,Wednesday,19:00:00,20:00:00,Year 9,Ruben,Blumstein,45
+Matt Abelman,05/09/2024,Thursday,19:00:00,20:00:00,Year 8,Max,Abelman,45
+Gene Hale,06/09/2024,Friday,19:00:00,20:00:00,Year 8,Becky,Hale,45
+Steve Nguyen,07/09/2024,Saturday,19:00:00,20:00:00,Year 8,Chad,Nguyen,45
+Linda Cazamias,09/09/2024,Monday,17:00:00,18:00:00,Year 7,Jennifer,Cazamias,45
+Ruben Ausman,10/09/2024,Tuesday,17:00:00,18:00:00,Year 7,Shirley,Ausman,45
+Erin Smith,11/09/2024,Wednesday,17:00:00,18:00:00,Year 7,Joel,Smith,45
+Odella Nelson,12/09/2024,Thursday,17:00:00,18:00:00,Year 7,Jim,Nelson,45
+Patrick O'Donnell,13/09/2024,Friday,17:00:00,18:00:00,Year 7,David,O'Donnell,45
+Lena Hernandez,14/09/2024,Saturday,17:00:00,18:00:00,Year 7,Robert,Hernandez,45
+Darren Powers,09/09/2024,Monday,18:00:00,19:00:00,Year 6,Sally,Powers,45
+Janet Molinari,10/09/2024,Tuesday,18:00:00,19:00:00,Year 6,Frank,Molinari,45
+Ted Butterfield,11/09/2024,Wednesday,18:00:00,19:00:00,Year 6,Alice,Butterfield,45
+Kunst Miller,12/09/2024,Thursday,18:00:00,19:00:00,Year 6,Mark,Miller,45
+Paul Stevenson,13/09/2024,Friday,18:00:00,19:00:00,Year 6,Mary,Stevenson,45
+Brendan Sweed,14/09/2024,Saturday,18:00:00,19:00:00,Year 6,Cassandra,Sweed,45
+Karen Daniels,14/09/2024,Saturday,10:00:00,11:00:00,GCSE,Valerie,Daniels,65
+Henry MacAllister,14/09/2024,Saturday,10:00:00,11:00:00,11 Plus,Fred,MacAllister,45
+Joel Eaton,14/09/2024,Saturday,11:00:00,12:00:00,11 Plus,Maria,Eaton,45
+Ken Brennan,14/09/2024,Saturday,10:00:00,12:00:00,11 Plus,Bruce,Brennan,45
+Stewart Carmichael,14/09/2024,Saturday,13:00:00,14:00:00,11 Plus,Logan,Carmichael,45
+Duane Noonan,14/09/2024,Saturday,11:00:00,12:00:00,GCSE,Heather,Noonan,65
+Julie Creighton,14/09/2024,Saturday,10:00:00,12:00:00,GCSE,Laurel,Creighton,65
+Christopher Schild,14/09/2024,Saturday,13:00:00,14:00:00,GCSE,Joseph,Schild,65
+Paul Gonzalez,14/09/2024,Saturday,14:00:00,15:00:00,11 Plus,Victoria,Gonzalez,45
+Gary Mitchum,14/09/2024,Saturd,14:00:00,15:00:00,11 Plus,Jonathan,Mitchum,45
+Jim Sink,14/09/2024,Satur,14:00:00,15:00:00,11 Plus,Joni,Sink,45
+Karl Braun,14/09/2024,Saturday,14:00:00,15:00:00,Grammar School,David,Braun,45
+Roger Barcio,14/09/2024,Saturday,14:00:00,15:00:00,11 Plus,Valerie,Barcio,45
+Parhena Norris,14/09/2024,Saturday,14:00:00,15:00:00,11 Plus,Erin,Norris,45
+Katherine Ducich,14/09/2024,Sat,15:00:00,16:00:00,Gramar,Christopher,Ducich,45
+Elpida Rittenbach,16/09/2024,Monday,16:00:00,18:00:00,11 Plus,David,Rittenbach,45
+Rick Bensley,17/09/2024,Tuesday,16:00:00,18:00:00,GCSE,Ken,Bensley,65
+Gary Zandusky,18/09/2024,Wednesday,16:00:00,18:00:00,Edexcel Exam,Dianna,Zandusky,65
+Lena Cacioppo,19/09/2024,Thursday,16:00:00,18:00:00,GCSE,Logan,Cacioppo,65
+Janet Martin,20/09/2024,Frid,16:00:00,18:00:00,AQA Aw body,Kelly,Martin,65
